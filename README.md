@@ -85,13 +85,11 @@
     <img width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=lelinchakma45&theme=blue-green&hide_border=true" alt="GitHub Streak Stats">
 
 </div>
-<div>
-    <img width='100%' src='https://github-readme-stats.vercel.app/api?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false' />
+<div style="display: flex;">
+    <img width='50%' src='https://github-readme-stats.vercel.app/api?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false' />
+    <img width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact' />
+</div>
 
-</div>
-<div>
-    <img width='100%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact' />
-</div>
 
 ## 🏆Achievement
 

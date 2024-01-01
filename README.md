@@ -5,7 +5,7 @@
    
 <br/>
 <p align="center">
-    <span style="font-family: 'Fira Code', monospace;font-size:28px; color: #FF7262;">This is<strong style="text-transform:uppercase"> Lelin Chakma</strong></span><a href="www.lelinchakma.com" target = '_blank' style="margin-left:10px"><strong>(Vew WebSite)</strong></a>
+    <span style="font-family: 'Fira Code', monospace;font-size:28px; color: #FF7262;">This is<strong style="text-transform:uppercase"> Lelin Chakma</strong></span><a href="https://lelinchakma.com" target = '_blank' style="margin-left:10px"><strong>(Vew WebSite)</strong></a>
     <br/>
     <span style="font-family: 'Nanum Gothic Coding', monospace;font-size:14px; color: #FFF"><strong> (Full Stack Developer, 3D Artist)</strong></span>
 </p>
@@ -20,7 +20,7 @@
 - 👉 I’m currently learning <strong>Deep Learning, Machine Learning & Data Science</strong>
 
 - 👉 I’m interested in multiple sectors, Like- **Artificial Intelligence, Game Development, Cyber Security , Robotics**
-- 🌐 Visit for more Information <a href='lelinchakma.com' target='_blank'><strong>Click</strong></a>
+- 🌐 Visit for more Information <a href='https://lelinchakma.com' target='_blank'><strong>Click</strong></a>
 
 ## 🛠️ Skills & Techonolgy
 

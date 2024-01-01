@@ -1,9 +1,9 @@
  
 <br/>
 <p align="center">
-    <font size='6'>This is <strong> LELIN CHAKMA</strong></font><a href="https://lelinchakma.com" target = '_blank'><strong> (Vew WebSite) </strong></a>
+    <font size='12'>This is <strong> LELIN CHAKMA</strong></font><a href="https://lelinchakma.com" target = '_blank'><strong> (Vew WebSite) </strong></a>
     <br/>
-    <span> (Full Stack Developer, 3D Artist)</span>
+    <span><strong> (Full Stack Developer, 3D Artist)</strong></span>
 </p>
 
 <p align="center">
@@ -118,14 +118,9 @@
 
 ## 📈 My Github Stats
 
-<div>
-    <img width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=lelinchakma45&theme=blue-green&hide_border=true" alt="GitHub Streak Stats">
-
-</div>
-<div style="display: flex;">
-    <img width='50%' src='https://github-readme-stats.vercel.app/api?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false' />
-    <img width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelinchakma45&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact' />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=lelinchakma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lelinchakma45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lelinchakma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆Achievement
@@ -156,5 +151,7 @@
 </div>
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>

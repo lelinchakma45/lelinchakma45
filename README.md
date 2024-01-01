@@ -1,13 +1,9 @@
-<div align="center">
-<img src="https://media2.giphy.com/media/3oEdv1vkhqxcynkB5C/giphy.gif" align="center" style="width: 100%" />
-</div>  
-   
-   
+ 
 <br/>
 <p align="center">
     <font size='6'>This is <strong> LELIN CHAKMA</strong></font><a href="https://lelinchakma.com" target = '_blank'><strong> (Vew WebSite) </strong></a>
     <br/>
-    <span><strong> (Full Stack Developer, 3D Artist)</strong></span>
+    <span> (Full Stack Developer, 3D Artist)</span>
 </p>
 
 <p align="center">
@@ -15,14 +11,14 @@
     <a href="https://github.com/lelinchakma45?tab=followers"><img src="https://img.shields.io/github/followers/lelinchakma45?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-## 🙋‍♂️ About Me
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
 - 👉 I’m currently learning <strong>Deep Learning, Machine Learning & Data Science</strong>
 
 - 👉 I’m interested in multiple sectors, Like- **Artificial Intelligence, Game Development, Cyber Security , Robotics**
 - 🌐 Visit for more Information <a href='https://lelinchakma.com' target='_blank'><strong>Click</strong></a>
 
-## 🛠️ Skills & Techonolgy
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Techonolgy
 
  <table width="100%" align='center'>
         <tr >

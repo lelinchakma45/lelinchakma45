@@ -112,10 +112,6 @@
 - Sobjanta - Generative AI-Based Personal Assistant <a href='https://sobjanta.ai/' target='_blank'>View Live</a>
 - 10 Minute School Website Frontend Clone <a href='https://lelinchakma45.github.io/E-Learning-Ten-Minute-School-Copy/' target='_balnk'>View Live</a>
 
-
-
-<br/>
-
 ## 🏆Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=lelinchakma45&theme=onestar&no-frame=true&no-bg=false&margin-w=4)

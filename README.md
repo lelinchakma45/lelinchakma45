@@ -131,10 +131,5 @@
     <a href="https://twitter.com/lelinchakma45" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;border-radius:3px" />
     </a>
-    <a href="https://www.kaggle.com/mdshakil171" target="_blank">
-        <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;border-radius:3px" />
-    </a>   
-    <a href="https://stackoverflow.com/users/20929260/md-shakil" target="_blank">
-        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;border-radius:3px" />
-    </a>  
+    
 </div>

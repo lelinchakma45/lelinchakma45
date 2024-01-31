@@ -116,13 +116,6 @@
 
 <br/>
 
-## 📈 My Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lelinchakma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lelinchakma45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lelinchakma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 🏆Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=lelinchakma45&theme=onestar&no-frame=true&no-bg=false&margin-w=4)

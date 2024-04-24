@@ -3,7 +3,7 @@
 <p align="center">
     <font size='12'>This is <strong> LELIN CHAKMA</strong></font><a href="https://lelinchakma.com" target = '_blank'><strong> (Vew WebSite) </strong></a>
     <br/>
-    <span><strong> (Full Stack Developer, 3D Artist)</strong></span>
+    <span><strong> (Full Stack Developer, App Developer, 3D Artist)</strong></span>
 </p>
 
 <p align="center">

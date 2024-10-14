@@ -13,7 +13,7 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
-- 👉 I’m currently learning <strong>Flutter App Development, React.js & Node.js</strong>
+- 👉 I’m currently working with <strong>Flutter App Development, React.js & Python(Django & Flask)</strong>
 
 - 👉 I’m interested in multiple sectors, Like- **Artificial Intelligence, Game Development, Cyber Security , Robotics**
 - 🌐 Visit for more Information <a href='https://lelinchakma.com' target='_blank'><strong>Click</strong></a>
